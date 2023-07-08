@@ -1,2 +1,3 @@
 # Ialg-Dredd-Cpp
-Códigos de estudo
+Aqui posto alguns códigos de estudo desenvolvidos em atividades da disciplina de Introdução aos Algoritmos
+na Universidade Federal de Lavras
