@@ -14,6 +14,26 @@ Entradas:
 Saídas:
 
     Números do vetor entre os delimitadores, na ordem inversa da leitura.
+
+Exemplo de entrada:
+
+6
+9 2 3 4 5 6
+2 6
+
+Exemplo de saída:
+
+5 4 3
+
+Exemplo de entrada:
+
+7
+8 -1 2 4 5 0 3
+5 -1
+
+Exemplo de saída:
+
+4 2
 */
 
 #include <iostream>
