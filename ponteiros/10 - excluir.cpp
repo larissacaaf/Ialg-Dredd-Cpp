@@ -21,7 +21,8 @@ Entradas:
 
 Saídas:
 1
-6*/
+6
+*/
 
 #include <iostream>
 
