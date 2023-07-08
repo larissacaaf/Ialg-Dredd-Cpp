@@ -1,3 +1,21 @@
+/*
+Faça um programa que lê um vetor de números inteiros e depois escreve todos os números entre dois marcadores de limite na ordem inversa. Os limites não farão parte da saída.
+
+Os marcadores não precisam estar em ordem, ou seja, o primeiro marcador não necessariamente precisa vir antes do segundo. Observe os exemplos a seguir.
+
+Obs: os vetores devem ser alocados dinamicamente.
+
+Entradas:
+
+    Quantidade de elementos do vetor.
+    Linha contendo os números inteiros do vetor (separados entre si por espaço).
+    Linha contendo os dois números delimitadores (separados entre si por espaço).
+
+Saídas:
+
+    Números do vetor entre os delimitadores, na ordem inversa da leitura.
+*/
+
 #include <iostream>
 using namespace std;
 
